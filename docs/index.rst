@@ -3,7 +3,7 @@ How to Download Private Internet Access? PIA VPN Download Guide
 
 Private Internet Access (PIA) is one of the most popular VPN services today, known for its robust security features, fast speeds, and excellent privacy protection. If you are looking to download and install Private Internet Access, you’ve come to the right place. In this article, we’ll walk you through the process of how to get PIA VPN, covering everything you need to know to get started with secure browsing and anonymous online activities.
 
-.. image:: download.png
+.. image:: download-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
